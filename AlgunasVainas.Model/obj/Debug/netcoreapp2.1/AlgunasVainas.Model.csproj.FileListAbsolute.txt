@@ -1,0 +1,9 @@
+C:\Code\AlgunasVainas\AlgunasVainas.Model\bin\Debug\netcoreapp2.1\AlgunasVainas.Model.deps.json
+C:\Code\AlgunasVainas\AlgunasVainas.Model\bin\Debug\netcoreapp2.1\AlgunasVainas.Model.dll
+C:\Code\AlgunasVainas\AlgunasVainas.Model\bin\Debug\netcoreapp2.1\AlgunasVainas.Model.pdb
+C:\Code\AlgunasVainas\AlgunasVainas.Model\obj\Debug\netcoreapp2.1\AlgunasVainas.Model.csprojAssemblyReference.cache
+C:\Code\AlgunasVainas\AlgunasVainas.Model\obj\Debug\netcoreapp2.1\AlgunasVainas.Model.csproj.CoreCompileInputs.cache
+C:\Code\AlgunasVainas\AlgunasVainas.Model\obj\Debug\netcoreapp2.1\AlgunasVainas.Model.AssemblyInfoInputs.cache
+C:\Code\AlgunasVainas\AlgunasVainas.Model\obj\Debug\netcoreapp2.1\AlgunasVainas.Model.AssemblyInfo.cs
+C:\Code\AlgunasVainas\AlgunasVainas.Model\obj\Debug\netcoreapp2.1\AlgunasVainas.Model.dll
+C:\Code\AlgunasVainas\AlgunasVainas.Model\obj\Debug\netcoreapp2.1\AlgunasVainas.Model.pdb

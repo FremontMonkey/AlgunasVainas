@@ -1,0 +1,12 @@
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\bin\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.deps.json
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\bin\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.dll
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\bin\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.pdb
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\bin\Debug\netcoreapp2.1\AlgunasVainas.Model.dll
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\bin\Debug\netcoreapp2.1\AlgunasVainas.Model.pdb
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\obj\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.csprojAssemblyReference.cache
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\obj\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\obj\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.AssemblyInfoInputs.cache
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\obj\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.AssemblyInfo.cs
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\obj\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.csproj.CopyComplete
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\obj\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.dll
+C:\Code\AlgunasVainas\AlgunasVainas.Infrastructure\obj\Debug\netcoreapp2.1\AlgunasVainas.Infrastructure.pdb
