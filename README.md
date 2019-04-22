@@ -20,7 +20,7 @@ I dig TDD ... the Test code helped me build this thing (at least the code that m
 
 Currently the code is super vanilla -- I plan to keep updating it. I hope it will be useful to someone who's learning. Let me know what you think -- I'd like to learn something as well.
 
-I actually pushed the resources to Azure if you'd like to check it out:
+I pushed the resources to Azure if you'd like to check it out:
 
 https://bbowebsite20190422012306.azurewebsites.net/
 
