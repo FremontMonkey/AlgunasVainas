@@ -1,0 +1,9 @@
+C:\Code\BBo\BBo.Model\obj\Debug\netcoreapp2.1\BBo.Model.csproj.CoreCompileInputs.cache
+C:\Code\BBo\BBo.Model\obj\Debug\netcoreapp2.1\BBo.Model.AssemblyInfoInputs.cache
+C:\Code\BBo\BBo.Model\obj\Debug\netcoreapp2.1\BBo.Model.AssemblyInfo.cs
+C:\Code\BBo\BBo.Model\bin\Debug\netcoreapp2.1\BBo.Model.deps.json
+C:\Code\BBo\BBo.Model\bin\Debug\netcoreapp2.1\BBo.Model.dll
+C:\Code\BBo\BBo.Model\bin\Debug\netcoreapp2.1\BBo.Model.pdb
+C:\Code\BBo\BBo.Model\obj\Debug\netcoreapp2.1\BBo.Model.dll
+C:\Code\BBo\BBo.Model\obj\Debug\netcoreapp2.1\BBo.Model.pdb
+C:\Code\BBo\BBo.Model\obj\Debug\netcoreapp2.1\BBo.Model.csprojAssemblyReference.cache
