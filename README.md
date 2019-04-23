@@ -1,28 +1,34 @@
-# AlgunasVainas
+# Algunas Vainas
 
 Algunas Vainas (Colombian Spanish slang for "some things") is a code base consisting of the following:
 
-REST API (C#, .NET Core)
-Web Application (React.js)
-Unit Tests
+* REST API (C#, .NET Core)
+* Web Application (React.js)
+* Unit Tests
 
-This code was written using Visual Studio Community 2019 (impressive IDE!).
+### Prerequisites & Getting Started
 
-April 22, 2019
+This code was written using Visual Studio Community 2019 (impressive IDE!). 
+Web app code points to where I have the REST API hosted in Azure. Configure AlgunasVainas.Website to be the StartUp Project if debugging.
 
-v.1.0 Release
+### Releases & Notes
 
-I tried to put some scalable architecture around the API with the use of Services and Repositories (and interfaces for the Repositories).
+*April 22, 2019*
 
-I'm new to React.js, so ... doing my best there. Trying to incorporate things that will be useful like Routing, Axios, and React Bootstrap.
+**v.1.0 Release Notes**
 
-I dig TDD ... the Test code helped me build this thing (at least the code that makes up the API). 
+* I tried to put some scalable architecture around the API with the use of Services and Repositories (and interfaces for the Repositories).
+
+* I'm new to React.js, so ... doing my best there. Trying to incorporate things that will be useful like Routing, Axios, and React Bootstrap.
+
+* I dig TDD ... the Test code helped me build this thing (at least the code that makes up the API). 
 
 Currently the code is super vanilla -- I plan to keep updating it. I hope it will be useful to someone who's learning. Let me know what you think -- I'd like to learn something as well.
 
-I pushed the resources to Azure if you'd like to check it out:
+I pushed the API and web app to Azure. Check it out!
 
-https://bbowebsite20190422012306.azurewebsites.net/
+[Algunas Vainas](https://bbowebsite20190422012306.azurewebsites.net/)
+
 
 
 
