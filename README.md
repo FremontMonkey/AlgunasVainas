@@ -25,11 +25,6 @@ Web app code points to where I have the REST API hosted in Azure. Configure Algu
 
 The code is super vanilla -- I hope it will be useful to someone who's learning. Let me know what you think because I'd like to learn something as well.
 
-I pushed the API, a small SQL database, and web app to Azure. Check it out!
-
-[Algunas Vainas](https://bbowebsite20190422012306.azurewebsites.net/)
-
-
 
 
 
